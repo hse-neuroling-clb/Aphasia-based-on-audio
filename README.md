@@ -4,7 +4,8 @@
 
 * models — Python files containing model classes  
 * notebooks — Jupyter notebooks with experiments
-* src — helper functions/classes and Streamlit web app  
+* src — helper functions/classes and Streamlit web app
+* supplementary.pdf - supplementary materials
 
 ## Problem Statement
 
